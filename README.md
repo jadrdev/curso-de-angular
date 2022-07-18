@@ -5,4 +5,3 @@
 Introducción a TypeScript
 
 # 02 Introducción Angular
-

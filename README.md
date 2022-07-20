@@ -8,6 +8,6 @@ Introducción a TypeScript
 
 Introduccion de Angular y explicación de los modulos y conceptos básicos como los Servicios, Modulos y Componentes.
 
-# 03 Aplicación de Búsqueda de GIF en Giphy a través de la Api.
+# 03 Aplicación de Búsqueda de GIF en Giphy.
 
 Pequeña aplicación que busca un GIF en Giphy a través de la Api usando el servicio de búsqueda de Giphy y algunos de los parametros de Angular.

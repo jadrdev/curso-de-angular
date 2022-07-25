@@ -1,0 +1,38 @@
+<div *ngIf="!pais" class="alert alert-info">
+  Espere por favor
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <h1>País: <small>{{pais.name.common}} {{pais.flag}}, {{pais.capital}}</small></h1>
+  </div>
+</div>
+
+  <div class="col">
+    <h3>Información</h3>
+    <ul class="list-group">
+      <li class="list-group-item">
+        <strong>Población:</strong> {{pais.population | number}}
+      </li>
+      <li class="list-group-item">
+        <strong>Nombre en la FIFA:</strong> {{pais.fifa}}
+      </li>
+      <li class="list-group-item">
+        <strong>Código del País:</strong> {{pais.cca2}}
+      </li>
+    </ul>
+  </div>
+
+  <h3>Traducciones</h3>
+  <div class="row">
+    <div class="col">
+     <span
+        *ngFor="let t of pais.translations | keyvalue"
+        class="badge bg-primary ms-md-1">
+        {{ t.value.official }}
+      </span>
+    </div>
+  </div>
+
+
+

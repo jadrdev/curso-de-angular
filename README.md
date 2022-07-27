@@ -18,3 +18,5 @@ Aplicación SPA en la que se realiza búsquedas a través de una Api de paises u
 Se explico Router, ActiveRoute y el uso de la directiva ngFor para iterar sobre los resultados de la búsqueda.
 Manejo de erroes
 Clases de CSS condicionales
+
+#05 Explicación de Pipes de Angular

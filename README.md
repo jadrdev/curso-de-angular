@@ -19,4 +19,5 @@ Se explico Router, ActiveRoute y el uso de la directiva ngFor para iterar sobre 
 Manejo de erroes
 Clases de CSS condicionales
 
-#05 Explicación de Pipes de Angular
+# 05 Explicación de Pipes de Angular
+App de la Aplicación de los Pipes de Angular

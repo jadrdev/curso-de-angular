@@ -25,6 +25,6 @@ App de la Aplicación de los Pipes de Angular
 # 06 App de heroes 
 Explicación a través aplicación SAP de heroes la utilización de Angular Material, los guards y los métodos de CRUD a través de la App.
 Está App esta dividida en dos partes:
-1 - heroesApp -> Es todo el código fuente de la Aplicación
-2 - heroesApp-Server -> Es servidor del código que hemos usado como servidor de la aplicación
 
+1. heroesApp -> Es todo el código fuente de la Aplicación
+2. heroesApp-Server -> Es servidor del código que hemos usado como servidor de la aplicación

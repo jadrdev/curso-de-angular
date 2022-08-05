@@ -28,3 +28,11 @@ Está App esta dividida en dos partes:
 
 1. heroesApp -> Es todo el código fuente de la Aplicación
 2. heroesApp-Server -> Es servidor del código que hemos usado como servidor de la aplicación
+
+# 07 App de Formularios
+
+Explicación de los distintos tipos de formularios de de Angular: Template y Reactivos, además de las valicaciones que podemos hacer en los formularios
+Está App esta dividida en dos partes:
+
+1. formualriosApp -> Es todo el código fuente de la Aplicación
+2. forumario-server -> Es servidor del código que hemos usado como servidor de la aplicación

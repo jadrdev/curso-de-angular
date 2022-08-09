@@ -41,4 +41,6 @@ Está App esta dividida en dos partes:
 Explicación de como hacer selectores animados y rellenarlos a través de una llamada a la API
 
 # 09 Ciclos de vida de Angular
-Explacicación de los ciclos de vida de Angular y de como usarlos
+Explicación de los ciclos de vida de Angular y de como usarlos
+
+# 10 Aplicación de Mapas

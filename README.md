@@ -44,3 +44,4 @@ Explicación de como hacer selectores animados y rellenarlos a través de una ll
 Explicación de los ciclos de vida de Angular y de como usarlos
 
 # 10 Aplicación de Mapas
+Aplicación en la usamos la Api de Mapbox para mostrar un mapa con los marcadores de diferentes lugares

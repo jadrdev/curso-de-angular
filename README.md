@@ -51,3 +51,5 @@ Explicación del uso de Gráficas a través de la Api de Chart.js
 
 # 12 Aplicación y explicación de directivas
 Creación de directivas personalizadas y estructuras en Angular
+
+# 13 Aplicación FullStack con BE y FrontedEnd

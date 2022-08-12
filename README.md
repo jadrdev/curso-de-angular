@@ -47,3 +47,7 @@ Explicación de los ciclos de vida de Angular y de como usarlos
 Aplicación en la usamos la Api de Mapbox para mostrar un mapa con los marcadores de diferentes lugares.
 
 # 11 Aplicación de Gráficas
+Explicación del uso de Gráficas a través de la Api de Chart.js
+
+# 12 Aplicación y explicación de directivas
+Creación de directivas personalizadas y estructuras en Angular

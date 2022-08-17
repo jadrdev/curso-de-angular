@@ -53,3 +53,4 @@ Explicación del uso de Gráficas a través de la Api de Chart.js
 Creación de directivas personalizadas y estructuras en Angular
 
 # 13 Aplicación FullStack con BE y FrontedEnd
+Creación de un backend en NodeJS y una aplicación frontend con Angular para la gestión de una base de datos de una aplicación de gestión de usuarios.

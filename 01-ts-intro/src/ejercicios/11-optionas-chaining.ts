@@ -21,4 +21,4 @@ function imprimeHijos(pasajero: Pasajero): void {
     console.log(cuantoshijjos)
 }
 
-imprimeHijos(pasajero1)
+imprimeHijos(pasajero2)

@@ -3,22 +3,22 @@
 */
 interface Pasajero {
   nombre: string;
-  hijos?: string[]; 
+  hijos?: string[];
 }
 
 const pasajero1: Pasajero = {
-  nombre: 'Joshua'
-}
+  nombre: "Joshua",
+};
 
 const pasajero2: Pasajero = {
-  nombre: 'Yasmina',
-  hijos: ['Iriome','Iraya']
-}
+  nombre: "Yasmina",
+  hijos: ["Iriome", "Iraya"],
+};
 
 function imprimeHijos(pasajero: Pasajero): void {
   const cuantoshijjos = pasajero.hijos?.length || 0;
-    
-    console.log(cuantoshijjos)
+
+  console.log(cuantoshijjos);
 }
 
-imprimeHijos(pasajero1)
+imprimeHijos(pasajero1);
